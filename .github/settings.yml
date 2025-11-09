@@ -1,0 +1,5 @@
+---
+# https://github.com/apps/settings
+repository:
+  description: A lightweight Docker image for compiling LaTeX documents.
+  topics: latex, tools, container, docker
