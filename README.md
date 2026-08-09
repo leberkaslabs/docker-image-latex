@@ -1,6 +1,6 @@
 # LaTeX
 
-[![Container Release (LaTeX)](https://github.com/leberkaslabs/docker-image-latex/actions/workflows/build-push-action.yml/badge.svg)](https://github.com/leberkaslabs/docker-image-latex/actions/workflows/build-push-action.yml)
+[![Container Release (LaTeX)](https://github.com/leberkaslabs/docker-image-latex/actions/workflows/build.yml/badge.svg)](https://github.com/leberkaslabs/docker-image-latex/actions/workflows/build.yml)
 
 This repository maintains the code for my LaTeX container image, which is designed to streamline the process of generating LaTeX documents. By utilizing this container image, users can easily integrate it into their CI/CD pipelines, enabling automated TeX build processes.
 
