@@ -3,5 +3,7 @@
 # https://github.com/hadolint/hadolint?tab=readme-ov-file#rules
 ignored:
   - DL3003
+  - DL3008
+  - DL3015
   - DL3041
   - SC2164
